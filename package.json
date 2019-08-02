@@ -1,0 +1,11 @@
+{
+  "name": "ts-api-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:banga/ts-api-playground.git",
+  "author": "Shrey Banga <shrey@quip.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
